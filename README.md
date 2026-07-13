@@ -21,6 +21,16 @@ A recent Computer and Data Science graduate from Alexandria University specializ
 
 ### Badges
 
-<b>My GitHub Stats</b>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MazenArafat123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=MazenArafat123&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MazenArafat123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="http://www.github.com/mazenarafat123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mazenarafat123&stroke=10b981&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MazenArafat123&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MazenArafat123&limit=5&theme=dark&combine_all_yearly_contributions=true)
