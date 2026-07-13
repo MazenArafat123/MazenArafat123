@@ -23,4 +23,6 @@ A recent Computer and Data Science graduate from Alexandria University specializ
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mazenarafat123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mazenarafat123&stroke=10b981&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
+<a href="http://www.github.com/mazenarafat123"><img src="https://github-readme-stats.vercel.app/api?username=mazenarafat123&show_icons=true&hide=stars,prs,issues,contribs&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=134e4a&hide_border=true&show_icons=true" alt="mazenarafat123's GitHub stats" /></a>
+
+<a href="http://www.github.com/mazenarafat123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mazenarafat123&stroke=ffffff&background=134e4a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
