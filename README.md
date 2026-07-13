@@ -27,7 +27,3 @@ src="https://img.shields.io/github/followers/mazenarafat123?logo=github&style=fo
 <a href="http://www.github.com/mazenarafat123"><img src="https://github-readme-stats.vercel.app/api?username=mazenarafat123&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=10b981&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="mazenarafat123's GitHub stats" /></a>
 
 <a href="http://www.github.com/mazenarafat123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mazenarafat123&stroke=10b981&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
-
-<a href="https://github.com/mazenarafat123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenarafat123&langs_count=10&title_color=ffffff&text_color=10b981&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
