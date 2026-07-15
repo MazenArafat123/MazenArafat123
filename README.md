@@ -8,6 +8,7 @@ A recent Computer and Data Science graduate from Alexandria University specializ
 
 * 🌍  I'm based in Alexandria, Egypt
 * 🖥️  See my portfolio at [My portfolio](http://mazen-arafat-uf57rtg.gamma.site/)
+* 📃  See my CV at [My CV](https://drive.google.com/file/d/1_hKFR9DWkmJCZW5vxArM4EU8dJYOCuDy/view?usp=sharing)
 * ✉️  You can contact me at [mazen.arafat.ibrahim@gmail.com](mailto:mazen.arafat.ibrahim@gmail.com)
 * 🧠  I'm currently learning Generative AI
 
